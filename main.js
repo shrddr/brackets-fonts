@@ -29,9 +29,9 @@ define(function () {
         'Anonymous Pro',
         'Roboto',
         'Didact Gothic',
-        '',
-        '',
-        '',
+        'PT Serif Caption',
+        'Ubuntu',
+        'Ubuntu Condensed'
     ];
     
 	var CommandManager = brackets.getModule('command/CommandManager'),
